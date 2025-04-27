@@ -1,0 +1,2 @@
+git add filename.html   --> for single file
+git add . --> for multiple file
